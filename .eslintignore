@@ -1,0 +1,17 @@
+# directories
+.next
+.cache
+components/ui
+node_modules
+public
+
+# type definition and build files
+*.tsbuildinfo
+next-env.d.ts
+
+# project definition files
+package.json
+pnpm-lock.yaml
+
+# documentation
+README.md
